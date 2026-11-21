@@ -7,7 +7,7 @@ I build fast, accessible web interfaces with React, Next.js, TypeScript and Tail
 
 ## Featured Projects
 
-- **[Advanced Portfolio](https://github.com/AmgadBadawy/Advanced-portfolio)** — Interactive personal portfolio with Three.js 3D graphics, GSAP animations and React Server Components. [Live demo](https://portfolio-v2-phi-liart.vercel.app)
+- **[Advanced Portfolio](https://github.com/AmgadBadawy/Advanced-portfolio)** — Interactive personal portfolio with Three.js 3D graphics, GSAP animations and React Server Components. [Live demo](https://amgadbadawy-portfolio.vercel.app)
 - **[Masar — مسار](https://github.com/AmgadBadawy/masar-frontend)** — Arabic-first RTL platform that simplifies Egyptian government services; Next.js + TypeScript frontend with a Strapi/PostgreSQL backend. [Live demo](https://masar-frontend-ten.vercel.app)
 - **[FlowDesk](https://github.com/AmgadBadawy/FlowDesk)** — Responsive SaaS landing page for an AI workflow automation platform; semantic HTML and scalable CSS, no frameworks. [Live demo](https://flow-desk-rho-ten.vercel.app)
 
